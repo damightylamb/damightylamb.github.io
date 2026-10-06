@@ -43,4 +43,4 @@ If this policy changes, we will update the date above and post the new version a
 
 ## Contact
 
-Questions: [YOUR EMAIL]
+Questions: [damightyapps@gmail.com]

@@ -12,7 +12,7 @@ p,li{margin:8px 0}.meta{color:var(--dim);font-family:"Segoe UI",system-ui,sans-s
 a{color:var(--accent)}
 </style></head><body><main>
 <h1>Color Lock – Privacy Policy</h1>
-<p class="meta">Effective October 6, 2026. App: Color Lock (com.damightyapp.colorlock). Publisher: [YOUR NAME OR STUDIO].</p>
+<p class="meta">Effective October 6, 2026. App: Color Lock (com.damightyapp.colorlock). Publisher: DaMightyLamb.</p>
 
 <p>Color Lock is a tile puzzle game. This policy explains what information the app uses and who else receives it. We do not ask you to create an account, and we do not collect your name, email address, or contact list.</p>
 
